@@ -15,6 +15,7 @@ const Todo = ({ addTodo }) => {
 
   return (
     <div>
+      <h1>hello</h1>
       <input
         ref={inputRef}
         type="text"
